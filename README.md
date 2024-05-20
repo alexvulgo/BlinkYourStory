@@ -1,9 +1,9 @@
 # BlinkYourStory
+Swift Playground for the Swift Student Challenge 2024
+
 Alessandro Esposito Vulgo Gigante 
 
-_Swift Playground for the Swift Student Challenge 2024_
-
-# Description:
+## Description:
 
 **Blink Your Story** is specifically designed for children and teaches them the fundamentals of story telling.
 The aim is to provide a tool that enables children with mobility issues to write a story with the aid of their imagination and eye control.
@@ -12,13 +12,18 @@ Become the writer of your personal story!
 
 Note: This playground needs to run on an Ipad with camera access to detect the blink of the right and the left eye.
 
-# Screens:
+Instruction: Right Blink to scroll right, Left Blink to confirm your chooice.
 
-![IMG_0026 2](https://github.com/alexvulgo/BlinkYourStory/assets/120048791/5ee00740-dfd1-4be5-b539-85708e6956cf)
+## Features: 
 
-![IMG_0027 2](https://github.com/alexvulgo/BlinkYourStory/assets/120048791/79ab8709-35bc-4cc0-9c5a-14b0ab2a0ad9)
+• ARKit
 
-![IMG_0028 2](https://github.com/alexvulgo/BlinkYourStory/assets/120048791/52d52561-c65e-480a-982f-6f198770e890)
+• RealityKit
+
+## Screens:
+
+<img src="https://github.com/alexvulgo/BlinkYourStory/assets/120048791/9636ae3d-18e8-44f2-b5aa-feebda6e26ee" width=100% height=100%>
+
 
 
 
